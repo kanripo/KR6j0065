@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 蘇婆呼童子請問經
+#+DATE: 2015-08-30 20:25:08.196636
+#+PROPERTY: JUAN 0
